@@ -5,7 +5,7 @@ Our first game ever so don't be too excited. We are testing the waters!
 currently not allowing downloads as the game isn't ready yet, fell free to check for any updates below or on social media. You will see a release as soon as the main gameplay loop has been set-up.
 | Versions | Status | Release date |
 |--|--|--|
-| Alpha 0.0.1 | In Progress |19/07/2020|
+| Alpha 0.0.1 | In Progress |--/--/--|
 |Alpha 0.0.2 | Soon | --/--/--/
 
 # Versions & Roadmap
